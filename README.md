@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student
-- 🌱 I’m currently exploring programming
-- 📫 Contact : duttamrinal786@gmail.com
-- 👾 Hopefully I can update this soon
+- 🎓 a undergrad here
+- 🔭 Currently delving into the magnificiant world of technology
+- 😊 Thanks for stopping by my peofile
+- 🫡 Hopefully I pass by your repo one day
